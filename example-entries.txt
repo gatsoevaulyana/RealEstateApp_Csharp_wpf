@@ -1,0 +1,2 @@
+Test	Address	52	12.25.1997	Flat	12352,32
+Varna	Bitolya 152 	52	09.21.1952	House	190000

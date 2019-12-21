@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RealEstate.AddNewClient">
+    <Position X="19.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AATFAEYBACAAABEADESABAACAECEQAAAAAALQEAAAAA=</HashCode>
+      <FileName>AddNewClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate.AddNewRealEstate">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABFAAAAACAEABEACECAAIACCAiBAQAAAAALQEAAAAE=</HashCode>
+      <FileName>AddNewRealEstate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate.ClientOrRealState">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAAAABAECAAAACAAAIAAgQMIACAAAAAAA=</HashCode>
+      <FileName>ClientOrRealState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate.Edit">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEAAAAACAABAAAAACAAAASAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Edit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate.FormToEditClient">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASFAEAAACAAABEAAACABAACAEAAAgAAIAABAEAAAAA=</HashCode>
+      <FileName>FormToEditClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate.FormToEditEstate">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAAACAAABEAAACAAIACCIgBAgAAIAABAEAAAAE=</HashCode>
+      <FileName>FormToEditEstate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate.Program">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate.RealEstate">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAgABwAACAgAATZIoKAICAiAIQ5QhAA8HAPQAAAQAA=</HashCode>
+      <FileName>RealEstate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate.Remove">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEAAAAACAAAAAAAACACBASAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Remove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate.SearchClient">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQkAAABAGAAIJAACACAAAICAAAAAAAgAiQgAAAAAAA=</HashCode>
+      <FileName>SearchClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate.SearchEstate">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAIAAAGAAgBAACACAAEADAAAgABAAEBAAAAAAAAA=</HashCode>
+      <FileName>SearchEstate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RealEstate.Properties.Resources">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
